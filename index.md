@@ -1,18 +1,15 @@
 ---
 title: BigStreams
 ---
-# First International Workshop on Big Data Stream Processing (BigStream 2018)
-(collocated with 2018 ACM/IFIP/USENIX International Middleware Conference)
-
-
-December, 2018
-Rennes, France
-
+# First International Workshop on Big Data Stream Processing <a name="home"></a>
+(collocated with 2018 ACM/IFIP/USENIX International Middleware Conference)<br />
+December, 2018<br />
+Rennes, France<br />
 [bigstream-workshop.github.io](https://bigstream-workshop.github.io)
 
 
 
-## Scope:
+##  Scope:
 
 Recent years have witnessed unprecedented amounts of data being generated from
 different hardware or software in the form of streams of data. Examples of
@@ -59,8 +56,8 @@ Papers should be electronically submitted in pdf format to <https://easychair.or
 
 ## <a name="dates"></a>Important Dates:
 
-Paper Submission: August 31, 2018 
-Paper notification: September 28, 2018
+Paper Submission: August 31, 2018 <br />
+Paper notification: September 28, 2018 <br />
 Camera-ready: October 19, 2018
 
 All deadlines are at 11:59PM Pacific Daylight Time
@@ -68,8 +65,8 @@ All deadlines are at 11:59PM Pacific Daylight Time
 ## <a name="organization"></a>Organization
 ### Workshop Chairs
 
-Tilmann Rabl (TU Berlin)
-Kaustubh Beedkar (TU Berlin)
+* Tilmann Rabl (TU Berlin)
+* Kaustubh Beedkar (TU Berlin)
 
 ### Program Committee
 TBD
