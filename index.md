@@ -68,6 +68,8 @@ All deadlines are at 11:59PM Pacific Daylight Time
 * Tilmann Rabl (TU Berlin)
 * Kaustubh Beedkar (TU Berlin)
 
+The program chairs can be contacted through the workshop [EasyChair email](mailto:bigstream2018@easychair.org).
+
 ### Program Committee
 
 * Albert Bifet (LTCI, Telecom ParisTech)
