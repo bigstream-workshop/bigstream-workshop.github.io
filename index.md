@@ -9,7 +9,7 @@ Rennes, France<br />
 
 
 
-##  Scope:
+##  <a name="cfp"></a>Call for Papers:
 
 Recent years have witnessed unprecedented amounts of data being generated from
 different hardware or software in the form of streams of data. Examples of
