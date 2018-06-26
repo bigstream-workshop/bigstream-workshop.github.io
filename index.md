@@ -69,4 +69,21 @@ All deadlines are at 11:59PM Pacific Daylight Time
 * Kaustubh Beedkar (TU Berlin)
 
 ### Program Committee
-TBD
+
+* Albert Bifet (LTCI, Telecom ParisTech)
+* Alessandro Margara (Politecnico di Milano)
+* Alireza Rezaei Mahdiraji (DFKI)
+* Andras Benczur (Institute for Computer Science and Control, Hungarian Academy of Sciences)
+* Boris Glavic (Illinois Institute of Technology)
+* Emanuele Della Valle (Politecnico di Milano)
+* Kaiwen Zhang (ETS Montreal)
+* Matthias Sax (Confluent Inc.)
+* Matthias Uflacker (Hasso Plattner Institute)
+* Matthias Weidlich (Humboldt-Universität zu Berlin)
+* Paris Carbone (KTH Royal Institute of Technology)
+* Peter Pietzuch (Imperial College London)
+* Ruben Mayer (University of Stuttgart)
+* Till Rohrmann (Apache Software Foundation)
+* Tyler Akidau (Google Inc.)
+* Vasiliki Kalavri (ETH Zurich)
+* Xiang Ni (IBM)
