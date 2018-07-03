@@ -84,7 +84,7 @@ The program chairs can be contacted through the workshop [EasyChair email](mailt
 * Matthias Weidlich (Humboldt-Universität zu Berlin)
 * Paris Carbone (KTH Royal Institute of Technology)
 * Peter Pietzuch (Imperial College London)
-* Ruben Mayer (University of Stuttgart)
+* Ruben Mayer (Technical University of Munich)
 * Till Rohrmann (Apache Software Foundation)
 * Tyler Akidau (Google Inc.)
 * Vasiliki Kalavri (ETH Zurich)
