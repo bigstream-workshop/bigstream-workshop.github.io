@@ -51,7 +51,7 @@ submission categories:
 * Long paper: The maximum length is 10 pages (including references)
 * Short paper: The maximum length is 4 pages (including references)
 
-Papers should be electronically submitted in pdf format to <https://easychair.org/conferences/?conf=bigstream2018>
+Papers should be electronically submitted in pdf format to <https://bigstream18.hotcrp.com/>
  
 
 ## <a name="dates"></a>Important Dates:
