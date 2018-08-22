@@ -56,9 +56,9 @@ Papers should be electronically submitted in pdf format to <https://bigstream18.
 
 ## <a name="dates"></a>Important Dates:
 
-Paper Submission: August 31, 2018 <br />
-Paper notification: September 28, 2018 <br />
-Camera-ready: October 19, 2018
+Paper Submission: September 5, 2018 <br />
+Paper notification: October 1, 2018 <br />
+Camera-ready: October 21, 2018
 
 All deadlines are at 11:59PM Pacific Daylight Time
 
@@ -68,7 +68,6 @@ All deadlines are at 11:59PM Pacific Daylight Time
 * Tilmann Rabl (TU Berlin)
 * Kaustubh Beedkar (TU Berlin)
 
-The program chairs can be contacted through the workshop [EasyChair email](mailto:bigstream2018@easychair.org).
 
 ### Program Committee
 
