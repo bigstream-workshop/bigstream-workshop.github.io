@@ -7,7 +7,7 @@ December, 2018<br />
 Rennes, France<br />
 [bigstream-workshop.github.io](https://bigstream-workshop.github.io)
 
-
+*The 2018 edition of this workshop was cancelled.*
 
 ##  <a name="cfp"></a>Call for Papers:
 
